@@ -1,0 +1,13 @@
+- name: "Lecture notes"
+  link: "notes"
+
+- name: "Seminars"
+  link: "seminars"
+- name: "Contact"
+  link: "contact"
+
+- name: "CV"
+  link: "CV.pdf"
+
+- name: "About"
+  link: "/"
