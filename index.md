@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 I'm now a PhD student in SCMS, Fudan University, supervised by Zhiyuan Li.
 
 ### Publications
